@@ -22,7 +22,6 @@ A área em que mais tenho familiaridade e gosto de trabalhar é no Front end, po
 <ul>
   <li>Angular</li>
   <li>.NET</li>
-  <li>DevOps</li>
 </ul>
 
 <h2>Contato</h2>
