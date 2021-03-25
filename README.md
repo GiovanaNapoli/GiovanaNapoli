@@ -1,6 +1,5 @@
 ### Hello world, I'm Giovana :octocat:
 ---
-Front-end | Programadora :robot:.
 
 Estudante de Analise e Desenvolvimento de Sistemas pela FATEC Praia Grande e trabalhando como Consultora Iniciante na ModalGR. :woman_technologist:
 
