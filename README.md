@@ -10,7 +10,8 @@ Estudante de Analise e Desenvolvimento de Sistemas pela FATEC Praia Grande e tra
 - 💜 Sempre tentando ajudar outros devs da melhor forma possível
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiovanaNapoli&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiovanaNapoli&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaNapoli&layout=compact)
 
 ### Contato 📩
 ---
