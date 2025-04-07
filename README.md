@@ -1,41 +1,37 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+### Hi there, I'm Giovana 👋
 
-### Olá! Eu sou a Giovana :octocat:
-<div style="display: inline_block"><br>
-     <a href="https://www.linkedin.com/in/giovana-aparecida-napoli-da-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:giovana.ap.napoli@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+I'm a software developer focused on Front-End, trying to become a Full-Stack developer.
+
+### 👩‍💻 I work with
+<div style="display: flex; gap: 2px;">
+     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+     <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" />
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </div>
 
----
-
-### Linguagens e frameworks que já tenho um certo domínio
-
-<div style="display: inline_block"><br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" target="_blank"></a> 
+<div style="display: flex; gap: 2px;">
+     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <img src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" />
+     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
 </div>
 
----
-### O que estou estudando
-<div style="display: inline_block"><br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank"></a>
+### 🌱 I’m currently learning
+<div style="display: flex; gap: 2px;">
+     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+     <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" />
+     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+     <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
----
+### 📫 How to reach me 
+[LinkedIn](https://www.linkedin.com/in/giovana-aparecida-napoli-da-silva/)
 
-### Tenho interesse em aprender
-<div style="display: inline_block"><br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-</div>
+You can know more about me [here](https://portfolio-flame-ten-51.vercel.app/pt).
 
----
-
-<div>
-  <a href="https://github.com/GiovanaNapoli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaNapoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaNapoli&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: flex; gap: 6px;">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaNapoli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaNapoli&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
