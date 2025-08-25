@@ -20,13 +20,13 @@ I'm a software developer focused on Front-End, trying to become a Full-Stack dev
 ### 🌱 I’m currently learning
 <div style="display: flex; gap: 2px;">
      <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-     <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" />
+     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
      <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
      <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 ### 📫 How to reach me 
-[LinkedIn](https://www.linkedin.com/in/giovana-aparecida-napoli-da-silva/)
+[LinkedIn](https://www.linkedin.com/in/giovana-silva-486469376/)
 
 You can know more about me [here](https://portfolio-flame-ten-51.vercel.app/pt).
 
@@ -34,4 +34,5 @@ You can know more about me [here](https://portfolio-flame-ten-51.vercel.app/pt).
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaNapoli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaNapoli&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
 
