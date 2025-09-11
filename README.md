@@ -1,6 +1,6 @@
 ### Hi there, I'm Giovana 👋
 
-I'm a software developer focused on Front-End, trying to become a Full-Stack developer.
+I'm a software developer focused on Front-End, studying to become a Full-Stack developer.
 
 ### 👩‍💻 I work with
 <div style="display: flex; gap: 2px;">
@@ -34,5 +34,6 @@ You can know more about me [here](https://portfolio-flame-ten-51.vercel.app/pt).
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaNapoli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaNapoli&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
 
 
